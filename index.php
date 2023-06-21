@@ -2,7 +2,7 @@
 // Require composer autoloader
 require __DIR__ . '/vendor/autoload.php';
 $connect = mysqli_connect("localhost", "root", "root", "shortlink");
-connect = mysqli_connect("localhost", "root", "root", "shortlink");
+
 $filtered = [
   "request",
   "porn",
